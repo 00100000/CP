@@ -3,4 +3,4 @@
 	./$@.bin
 
 clean up:
-	rm -r *.bin *.in *.out
+	rm -r *.dSYM *.bin *.in *.out *.txt
