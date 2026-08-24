@@ -11,4 +11,4 @@ echo | g++ -E -Wp,-v -
 # 4. Make algo/debug.h in there
 sudo mkdir algo
 sudo vi algo/debug.h
-(paste in the algo/debug.h here)
+# (paste in the algo/debug.h here)
