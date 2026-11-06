@@ -7,8 +7,15 @@ using namespace std;
 
 typedef long long ll;
 
-int main() {
+void solve() {
+}
+
+signed main() {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
+
+	int t;
+	cin >> t;
+	while (t-->0) solve();
 	return 0;
 }
